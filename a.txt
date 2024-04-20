@@ -1,2 +1,1 @@
-aaa
-CCC
+written in master
